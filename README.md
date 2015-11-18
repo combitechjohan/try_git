@@ -1,8 +1,12 @@
-This is the first README file.
+'This is the first README file.
 
 Happy usage!!!
 
 ```c
+void foo(void) {
+	return;
+}
+
 int main(int argc, char[] *argv) {
 	int i = 0;
 	i++;
